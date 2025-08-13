@@ -12,3 +12,4 @@ E:\C#\CsharpProjects\03-Bank\obj\Debug\net8.0\refint\03-Bank.dll
 E:\C#\CsharpProjects\03-Bank\obj\Debug\net8.0\03-Bank.pdb
 E:\C#\CsharpProjects\03-Bank\obj\Debug\net8.0\03-Bank.genruntimeconfig.cache
 E:\C#\CsharpProjects\03-Bank\obj\Debug\net8.0\ref\03-Bank.dll
+E:\C#\CsharpProjects\03-Bank\obj\Debug\net8.0\03-Bank.sourcelink.json
